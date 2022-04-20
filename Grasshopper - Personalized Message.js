@@ -1,1 +1,0 @@
-var greet = (n, o) => n == o ? "Hello boss" : "Hello guest"
